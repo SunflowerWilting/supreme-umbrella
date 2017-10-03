@@ -1,0 +1,77 @@
+@charset "utf-8";
+.welc {
+	font-size: 300%;
+	text-align: center;
+}
+.abtHead {
+	font-size: 250%;
+	text-align: center;
+	padding-bottom: -10px;
+}
+.contactHead {
+		font-size: 250%;
+	text-align: center;
+	padding-bottom: -10px;
+}
+.lnr {
+	color: crimson;
+}
+.lnr-trash {
+	color: black
+}
+.trashcan {
+	font-size: 60px;
+}
+.back {
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	font-size: 85%;
+	font-variant-caps: small-caps;
+	color: black;
+	opacity: 0.75;
+}
+.back:hover {
+	text-decoration: none;
+	background-color: transparent;
+}
+.nav {
+	text-align: center;
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	padding-left: 10px;
+	padding-top: -15px;
+	padding-bottom: 0px;
+	padding-right: 10px;
+}
+.quote {
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	text-align: center;
+	font-size: 75%;
+}
+.Facebook:hover {
+	background-color: transparent;
+}
+i:hover {
+	color: #CF4D8A;
+	text-emphasis: none;
+	text-emphasis-style: none;
+}
+body {
+	background-color: #EDC5F5;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	color: #19082F;
+	font-size: 100%;
+}
+a:link {	
+	color: #8C1767;
+	text-decoration: none;
+}
+a:visted {
+	color: #8C1767;
+	text-decoration: none;
+	text-decoration: line-through;
+}
+a:hover {
+	color: #EDC5F5;
+	background-color: #8C1767;
+	border-radius: 15%;
+	
+}
